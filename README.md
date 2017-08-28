@@ -4,7 +4,7 @@ Clone all repos from a github organization
 
 ## Usage:
 ```bash
-git clone-org myawesometeam
+git-clone-org myawesometeam
 ```
 where **myawesometeam** is the github organization.
 
